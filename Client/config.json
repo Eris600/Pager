@@ -1,0 +1,7 @@
+{
+    "username": "User 1",
+
+    "ownHost": "127.0.0.1",
+    "serverHost": "127.0.0.1",
+    "port": 4500
+}
